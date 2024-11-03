@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "role": "Software Developer",
+    "organisation": "Utah Tech Labs",
+    "startDate": "Mar, 2024-",
+    "endDate": "Present",
+    "location": "Kolkata, India",
+    "experiences": [
+      "Client Collaboration & Requirement Gathering: Partnered with clients to understand project needs, streamlining requirements into development plans, resulting in a 20% improvement in client satisfaction and delivery timelines.",
+      "Feature Development & Code Optimization: Developed new features and optimized existing ones, leading a codebase upgrade to newer standards, which enhanced performance by 30% and strengthened security.",
+      "Multi-Project Involvement: Worked on projects for multiple U.S.-based clients, balancing and prioritizing workloads to ensure timely project completion and consistent client satisfaction.",
+      "Full-Stack Development in MERN: Focused 75% of efforts on backend and 25% on frontend, contributing to seamless project integration and high functionality across the stack.",
+      "Technical Skills Applied: MERN stack, SQL, Git, Google Cloud, React.js, Next.js, microservices."
+    ],
+    "imageSrc": "company/utll.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Associate Software Developer",
+    "organisation": "Adintors",
+    "startDate": "May, 2023-",
+    "endDate": "Feb, 2024",
+    "location": "Ahmedabad, India",
+    "experiences": [
+      "Backend Architecture & Development: Led end-to-end backend architecture using Node.js, Express, and Azure services, reducing downtime by 40% and increasing reliability.",
+      "API Documentation: Created Swagger API documentation for clear, accessible guidelines, reducing onboarding time for new team members by 25%.",
+      "Quality Assurance through Unit Testing: Applied Mocha and Chai for unit testing, achieving a 20% reduction in post-deployment issues and ensuring high code reliability.",
+      "Azure Integration & Redis Caching: Implemented Redis caching and an admin panel on Azure’s Platform-as-a-Service, which cut response times by 35%.",
+      "Cross-Functional Collaboration: Coordinated across UI/UX, mobile, and frontend teams, achieving 100% on-time project delivery and fostering a cohesive team environment.",
+      "Technical Skills Applied: Node.js, Express.js, JavaScript, DevOps, Azure CosmosDB, Docker, Swagger, microservices, Mocha, Chai."
+    ],
+    "imageSrc": "company/adintors.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Developer Trainee",
+    "organisation": "Technomark",
+    "startDate": "Jan, 2023-",
+    "endDate": "May, 2023",
+    "location": "Ahmedabad, India",
+    "experiences": [
+      "Backend API Development: Built foundational backend APIs with Node.js, ensuring a scalable backend structure.",
+      "Real-Time Features: Added real-time chat functionality using Socket.IO, enhancing user interaction and engagement.",
+      "Database Management: Utilized MongoDB for efficient and scalable data management, supporting high-performance applications.",
+      "Technical Skills Applied: HTML, CSS, JavaScript, Node.js, MongoDB, Express.js, Socket.IO."
+    ],
+    "imageSrc": "company/technomark.jpg"
+  }
+]

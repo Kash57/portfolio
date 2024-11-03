@@ -1,0 +1,35 @@
+[
+  {
+    "key": 1,
+    "title": "Real-time ChatApp(Personal Project)",
+    "imageSrc": "https://appinventiv.com/wp-content/uploads/2021/08/firebase-chat-app.png",
+    "description": "Developed a real-time chat application with WebSocket integration for instant messaging.",
+    "techStack": "WebSocket, CSS, Node.js",
+    "demo": "https://chat-kash.onrender.com/",
+    "source": "https://github.com/Kash57/chat-app"
+  },
+  {
+    "key": 2,
+    "title": "Influencer and Brand Connecting Application(Adintors-Live Project)",
+    "imageSrc": "https://adintors.com/images/dark-logo.svg",
+    "description": "Built a platform to connect influencers with brands, supporting influencer marketing campaigns.",
+    "organisation": "Adintors",
+    "techStack": "Node.js, Express.js, Azure Cloud, MongoDB",
+    "demo": "https://adintors.com/"
+  },
+  {
+    "key": 3,
+    "title": "Apium Delivery(Live project)",
+    "imageSrc": "https://admin.dev.apiumdelivery.com/assets/images/logo.png",
+    "description": "A delivery application and website serving the US market, supporting efficient delivery and logistics management.",
+    "techStack": "Node.js, Express.js, REST APIs, Git, React.js, Next.js, SQL, Google Cloud",
+    "demo": "https://admin.dev.apiumdelivery.com/login"
+  },
+  {
+    "key": 4,
+    "title": "Craveble(Live project)",
+    "imageSrc": "https://refactor-admin-tpyq4t5pda-uc.a.run.app/assets/images/logo.svg",
+    "description": "A food delivery application and website for the US market, designed to streamline food ordering and delivery services.",
+    "techStack": "Node.js, Express.js, REST APIs, Git, React.js, Next.js, MySQL, Google Cloud"
+  }
+]
